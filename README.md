@@ -67,7 +67,7 @@ Within this Project the following built-in instruments and utilities were used:
 
 Serhii Kyrylov - 
 
-Project Link: [https://github.com/SerhiiKyrylov/WarehouseConsoleStudyProject](https://github.com/SerhiiKyrylov/WarehouseConsoleStudyProject)
+Project Link: [https://github.com/SerhiiKyrylov/WarehouseConsoleStudyProject/tree/master](https://github.com/SerhiiKyrylov/WarehouseConsoleStudyProject/tree/master)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
